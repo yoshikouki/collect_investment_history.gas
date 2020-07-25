@@ -1,0 +1,2 @@
+# gas.collect_investment_history
+楽天証券の投資履歴CSVをGoogle スプレッドシートで集計するスクリプト
