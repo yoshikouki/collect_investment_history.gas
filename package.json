@@ -1,0 +1,26 @@
+{
+  "name": "collect_investment_history.gas",
+  "version": "1.0.0",
+  "description": "楽天証券の投資履歴CSVをGoogle スプレッドシートで集計するスクリプト",
+  "main": "Code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoshikouki/collect_investment_history.gas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoshikouki/collect_investment_history.gas/issues"
+  },
+  "homepage": "https://github.com/yoshikouki/collect_investment_history.gas#readme",
+  "devDependencies": {
+    "@google/clasp": "^2.3.0"
+  },
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.14"
+  }
+}
